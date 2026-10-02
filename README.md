@@ -1,5 +1,7 @@
 # MinClean
 
+<img width="680" height="191" alt="test1" src="https://github.com/user-attachments/assets/51880978-3a9b-4590-a49d-cc5017cd912a" />
+
 A small Windows console app that checks whether the exact certificate in
 `certs/Russian_Trusted_Root_CA.cer` is installed and can remove it on request.
 The certificate is embedded at build time, so the executable works on its own.
